@@ -81,7 +81,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/Ashutosh15rai/nl"
+UPSTREAM_REPO = "https://github.com/Ashutosh15rai/nl.git"
 UPSTREAM_BRANCH = "main"
 
 # Leech
